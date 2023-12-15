@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="share">Share</string>
+    <string name="info">Info</string>
+    <string name="delete">Delete</string>
+    <string name="description">Description</string>
+    <string name="add_a_note">Add a note</string>
+</resources>
